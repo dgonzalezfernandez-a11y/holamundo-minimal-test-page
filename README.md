@@ -1,6 +1,6 @@
 # Holamundo — Minimal Test Page
 
-[![Deploy to Cloudflare Workers][cloudflarebutton]]
+[![Deploy to Cloudflare Workers][![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/dgonzalezfernandez-a11y/holamundo-minimal-test-page)]
 
 A simple, extremely polished, and visually refined web page that displays exactly the text "holamundo" for testing purposes. Built on the Cloudflare Workers template with shadcn/ui, Tailwind CSS, and React for a production-ready, minimal single-page application (SPA). This project demonstrates rapid development of a stunning frontend foundation with modern UI components and seamless deployment.
 
@@ -111,7 +111,7 @@ Deploy to Cloudflare Workers for global edge delivery:
 
 For one-click deployment:
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/dgonzalezfernandez-a11y/holamundo-minimal-test-page)
 
 ### Post-Deployment
 
