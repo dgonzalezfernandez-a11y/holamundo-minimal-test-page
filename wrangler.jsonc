@@ -4,7 +4,7 @@
  */
  {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "holamundo-test-ctu_hokkt-ww7r-v1r1w_",
+	"name": "holamundo-minimal-test-page",
 	"main": "worker/index.ts",
 	"compatibility_date": "2025-04-24",
 	"assets": {
